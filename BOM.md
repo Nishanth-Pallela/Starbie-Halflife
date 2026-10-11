@@ -21,7 +21,7 @@
 | [3.7V 303450 600 mAh Battery](https://www.aliexpress.us/item/3256808464202145.html?spm=a2g0o.productlist.main.1.6ad978dc7fDSfa&algo_pvid=b81459d2-fb71-4bdb-a8db-f53010a721df&algo_exp_id=b81459d2-fb71-4bdb-a8db-f53010a721df-0&pdp_ext_f=%7B%22order%22%3A%22389%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%218.39%211.89%21%21%218.39%211.89%21%40210327ef17917356557853207e0e70%2112000046097006730%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A534e7db%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165385&curPageLogUid=2Tzy2hHV66Zr&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008650516897%7C_p_origin_prod%3A) | The power supply! | 1 | $1.09 | $1.09 | [AliExpress](https://www.aliexpress.us/item/3256808464202145.html?spm=a2g0o.productlist.main.1.6ad978dc7fDSfa&algo_pvid=b81459d2-fb71-4bdb-a8db-f53010a721df&algo_exp_id=b81459d2-fb71-4bdb-a8db-f53010a721df-0&pdp_ext_f=%7B%22order%22%3A%22389%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%218.39%211.89%21%21%218.39%211.89%21%40210327ef17917356557853207e0e70%2112000046097006730%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A534e7db%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165385&curPageLogUid=2Tzy2hHV66Zr&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008650516897%7C_p_origin_prod%3A) |
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=57&stencilLength=60&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | The whole thing (also use the cheapest option for shipping) | 1 | $10.77 | $10.77 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=57&stencilLength=60&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | **Parts subtotal** | — | — | — | **$25.16** | — |
-| **Tax & shipping** | — | — | — | **$1.92** | — |
-| **Total** | — | — | — | **$27.08** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$25.16** | — |
 
-$2.92 left of the tier's funding.
+$4.84 left of the tier's funding.
