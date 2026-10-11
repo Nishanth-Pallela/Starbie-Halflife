@@ -1,6 +1,6 @@
 # Starbie
 
-![Starbie Front Render](pictures/Starbie_3d_render.png)
+![Starbie Front Render](pictures/Starbie_Render.png)
 
 Starbie is a tiny, digital pet. It is basically a merge of a Tamagotchi and a Starboy!
 Made for Half Life from Hackclub (Check it out!!!)
